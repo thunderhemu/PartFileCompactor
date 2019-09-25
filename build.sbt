@@ -4,8 +4,6 @@ version := "0.1"
 
 scalaVersion := "2.11.8"
 
-organization := "com.qliro"
-
 val sparkVersion = "2.3.2"
 
 val sparkDependencyScope = "provided"
