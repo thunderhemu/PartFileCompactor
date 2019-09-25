@@ -1,0 +1,12 @@
+.idea
+
+# not version log
+derby.log
+
+# folders
+src/test/resources/input/*
+src/test/resources/output/*
+
+target
+metastore_db
+spark-warehouse
